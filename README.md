@@ -24,7 +24,7 @@ A sleek and modern Music Player app built with SwiftUI. Enjoy seamless audio pla
 ✅ **Dynamic Album Art** – Display song metadata with stunning visuals. <br>
 ✅ **Adaptive UI** – Optimized for both light and dark modes.
 
-### 2️⃣ [Chem-Zero](https://github.com/wahabniazi56/ChemZero-iOS)
+### 2️⃣ [Chem-Zero](https://apps.apple.com/my/app/chemzero-pfas-checker/id6739990764)
 📌 **Tech:** Swift, SwiftUI, Firebase  
 📌 **Description:** Another great project description.  
 📌 **Demo:** [App Store Link / Video Demo / Screenshot]  
