@@ -9,7 +9,7 @@ I’m an iOS developer passionate about building beautiful and functional applic
 ## 📂 Featured Projects
 
 
-### 1️⃣ Chem-Zero
+## 1️⃣ Chem-Zero
 
 📌 **Demo:** 
 
@@ -32,7 +32,37 @@ Chem-Zero is a modern SwiftUI-based app designed to help users make informed cho
 
 ---
 
-### 2️⃣ Music Lab
+## 2️⃣ Home-Fresh
+
+📌 **Demo:** 
+
+<img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/Screenshot%202025-05-28%20at%206.54.49%E2%80%AFAM.png" width="400" height="auto"> <br> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/Screenshot%202025-05-28%20at%206.55.54%E2%80%AFAM.png" width="1200" height="auto"> <br>
+
+📌 **Tech:** Swift, SwiftUI, Firebase.  
+
+📌 **Description:** Home-Fresh
+
+Home Foods is a mobile app built to connect passionate home chefs with local food lovers. It empowers individuals who want to start their own kitchen business from home and makes it easy for customers to order fresh, homemade meals from nearby chefs.
+
+### 👩‍🍳 For Home Chefs:
+- Create and manage your own virtual kitchen
+
+- Add dishes, set prices, and showcase your cooking style
+
+- Receive and fulfill orders directly through the app
+
+### 🍲 For Food Lovers:
+- Discover home-cooked meals in your area
+
+- Browse local home kitchens and explore diverse menus
+
+- Place orders and enjoy delicious food made with care
+
+📌 **App Store Link:** [Home-Fresh Link](https://apps.apple.com/my/app/chemzero-pfas-checker/id6739990764)
+
+---
+
+## 3️⃣ Music Lab
 
 📌 **Demo:** 
 
