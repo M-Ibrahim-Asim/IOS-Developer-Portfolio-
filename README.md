@@ -82,4 +82,27 @@ A sleek and modern Music Player app built with SwiftUI. Enjoy seamless audio pla
 
 ---
 
+## 4️⃣ Sleep-Glow
+
+📌 **Demo:** 
+
+<img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/SleepGlow1.png" width="200" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/SleepGlow2.png" width="200" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/SleepGlow3.png" width="200" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/SleepGlow4.png" width="200" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/SleepGlow5.png" width="200" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/SleepGlow6.png" width="200" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/SleepGlow7.png" width="200" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/SleepGlow8.png" width="200" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/SleepGlow9.png" width="200" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/SleepGlow10.png" width="200" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/SleepGlow11.png" width="200" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/SleepGlow12.png" width="200" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/SleepGlow13.png" width="200" height="auto"> 
+
+📌 **Tech:** Swift, SwiftUI, Firebase.  
+
+📌 **Description:** Sleep-Glow
+
+Sleep Glow is a modern SwiftUI-based wellness and spiritual routine app designed to help users build peaceful nighttime habits, improve sleep quality, and maintain a consistent daily reflection practice. It offers a calm, intuitive experience with structured tasks, guided audio, and faith-based content, featuring powerful tools like:
+
+✅ **Daily reflection tasks** to help users relax, unwind, and prepare for restful sleep. <br>
+✅ **Faith-based reading content** inspired by the teachings of Jesus for spiritual growth. <br>
+✅ **Guided audio sessions** including breathing exercises, calming reflections, and evening walk meditations. <br>
+✅ **Glow Score system** to track daily task completion and encourage habit consistency. <br>
+✅ **Evening gratitude journaling** to reflect on the day and reset the mind. <br>
+✅ **Clean habits tracker** to build and maintain healthy nighttime routines. <br>
+✅ **Sleep Glow** empowers users to develop mindful, spiritually enriching habits that reduce stress, promote inner peace, and improve overall well-being. <br>
+
+📌 **App Store Link:** [Sleep-Glow Link](https://apps.apple.com/au/app/sleep-glow-reset/id6747783214)
+
+---
 
