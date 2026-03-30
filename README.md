@@ -106,3 +106,23 @@ Sleep Glow is a modern SwiftUI-based wellness and spiritual routine app designed
 
 ---
 
+## 5️⃣ Customer 360
+
+📌 **Demo:** 
+
+<img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image1.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image2.png" width="130" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image3.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image4.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image5.png" width="500" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image6.png" width="350" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image7.png" width="350" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image8.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image9.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image10.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image11.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image12.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image13.png" width="150" height="auto"> <br>
+
+📌 **Tech:** Swift, SwiftUI, RealmSwift DB, custom backend, api services.  
+
+📌 **Description:** Customer 360 
+
+Customer 360 is a powerful SwiftUI-based enterprise app designed to help field reps and managers streamline store visits, client interactions, and sales. It offers a smooth, intuitive interface with powerful features like:
+
+✅ **Interactive store discovery** via an integrated map and store locator. <br>
+✅ **Seamless check-ins** featuring rich media capture, offline drafts, and automated background reminders. <br>
+✅ **Built-in AI Assistants** (Jarvis & AI Chat) for intelligent visit summaries and actionable insights. <br>
+✅ **Interactive dashboards** powered by Highcharts for real-time performance tracking. <br>
+✅ **Robust offline support** using RealmSwift to securely sync and manage data anywhere. <br>
+✅ **Customer 360** empowers field teams to maximize productivity and drive business growth on the go.
+
+---
