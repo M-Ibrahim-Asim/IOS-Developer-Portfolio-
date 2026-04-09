@@ -126,3 +126,23 @@ Customer 360 is a powerful SwiftUI-based enterprise app designed to help field r
 ✅ **Customer 360** empowers field teams to maximize productivity and drive business growth on the go.
 
 ---
+
+## 6️⃣ BioSync AI
+
+📌 **Demo:** 
+
+<img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/Health1.PNG" width="160" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/Health2.PNG" width="160" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/Health3.PNG" width="160" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/Health4.PNG" width="160" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/Health5.PNG" width="160" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/Health6.PNG" width="160" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/Health7.PNG" width="160" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/Health8.PNG" width="160" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/Health9.PNG" width="160" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/Health10.PNG" width="160" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/Health11.PNG" width="160" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/Health12.PNG" width="160" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/Health13.PNG" width="160" height="auto"> <br>
+
+📌 **Tech:** Swift, SwiftUI, Apple HealthKit Framework, Generative AI (Gemini), Swift Concurrency (async/await), REST API services.  
+
+📌 **Description:** BioSync AI 
+
+BioSync AI is an innovative iOS app that seamlessly bridges everyday health tracking with professional fitness planning. Built with modern SwiftUI, it analyzes real-time Apple Health data to automatically generate highly actionable and personalized nutrition and workout routines.
+
+✅ **Seamless HealthKit Syncing:** Automatically tracks real-time metrics like steps, active energy, resting heart rate, and sleep directly from Apple Health.  <br>
+✅ **AI-Generated Action Plans:** Leverages Gemini AI to output professional 7-day diet and workout routines tailored to the user's exact health statistics.  <br>
+✅ **Smart Auto-Fill Profiles:** Calculates weekly health averages to instantly pre-fill user forms, drastically reducing manual data entry friction.  <br>
+✅ **Interactive Data Dashboards:** Visualizes activity trends through beautiful, dynamic multi-series charts and daily activity summaries.  <br>
+✅ **Premium SwiftUI Interface** Delivers a natively smooth experience utilizing custom card layouts, dynamic state handling, and elegant animations.
+
+---
