@@ -146,3 +146,26 @@ BioSync AI is an innovative iOS app that seamlessly bridges everyday health trac
 ✅ **Premium SwiftUI Interface** Delivers a natively smooth experience utilizing custom card layouts, dynamic state handling, and elegant animations.
 
 ---
+
+## 7️⃣ Department Head
+
+📌 **Demo:** 
+
+<img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage1.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage4.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage5.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage6.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage7.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage8.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage9.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage2.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage3.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage10.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage11.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage12.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage13.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage14.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage15.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage16.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage17.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage18.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage19.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage20.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage21.png" width="320" height="auto"> <br>
+
+📌 **Tech:** Swift, SwiftUI, SQLite DB (custom SDK), SOAP Web Services, StoreKit, PDFKit.  
+
+📌 **Description:** Department Head 
+
+Department Head is a powerful SwiftUI-based enterprise iOS application designed to help film and television crew heads streamline script analysis, continuity tracking, and daily production scheduling. It offers a smooth, intuitive interface with powerful features like:
+
+✅ **Tailored department modules** featuring custom layouts, color themes, and workflows for Costume, Hair & Makeup, Props, and general crew leads.  <br>
+✅ **Seamless screenplay ingestion** via built-in Final Draft (.fdx) and Movie Magic parser engines that auto-extract scenes, characters, and action/dialogue blocks.  <br>
+✅ **Deep continuity tracking** mapping characters, look/change logs, actor sizing details, and continuity photos directly to specific scenes.  <br>
+✅ **Interactive shooting schedule planner** to organize shoot days, shooting order sequences, and daily lineups on set.  <br>
+✅ **Dedicated PDF reporting engine** to generate and export industry-standard Daily Lineups, Shoot Day Changes, and Long-form Script Breakdowns. <br>
+✅ **High-performance offline database** utilizing custom SQLite wrapping layers to securely store and search complex production metadata anywhere on set.  <br>
+✅ **StoreKit-powered subscription tier** providing flexible access to premium multi-department continuity tools.  <br>
+✅ Department Head empowers production crews to eliminate continuity errors and maximize coordination on the go.  
+
+---
