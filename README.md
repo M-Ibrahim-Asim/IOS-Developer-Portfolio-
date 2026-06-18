@@ -62,27 +62,51 @@ Home Foods is a mobile app built to connect passionate home chefs with local foo
 
 ---
 
-## 3️⃣ Music Lab
+## 3️⃣ Customer 360
 
 📌 **Demo:** 
 
-<img src="https://github.com/user-attachments/assets/3b744dc1-d485-45b7-82c7-7eb93f39801c" width="200" height="auto"> <img src="https://github.com/user-attachments/assets/a36543db-3ea3-4227-88dd-295704ec0702" width="200" height="auto"> <br>
+<img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image1.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image2.png" width="130" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image3.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image4.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image5.png" width="500" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image6.png" width="350" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image7.png" width="350" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image8.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image9.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image10.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image11.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image12.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image13.png" width="150" height="auto"> <br>
 
-📌 **Tech:** Swift, SwiftUI, Core Data.  
+📌 **Tech:** Swift, SwiftUI, RealmSwift DB, custom backend, api services.  
 
-📌 **Description:** 🎵 Music Player
+📌 **Description:** Customer 360 
 
-A sleek and modern Music Player app built with SwiftUI. Enjoy seamless audio playback with a clean UI, smooth animations, and intuitive controls. Features include:
+Customer 360 is a powerful SwiftUI-based enterprise app designed to help field reps and managers streamline store visits, client interactions, and sales. It offers a smooth, intuitive interface with powerful features like:
 
-✅ **Seamless Playback** – Play, pause, and skip tracks effortlessly. <br>
-✅ **Favorites & Playlists** – Save and organize your favorite songs. <br>
-✅ **Background Playback** – Enjoy music even when the app is minimized. <br>
-✅ **Dynamic Album Art** – Display song metadata with stunning visuals. <br>
-✅ **Adaptive UI** – Optimized for both light and dark modes.
+✅ **Interactive store discovery** via an integrated map and store locator. <br>
+✅ **Seamless check-ins** featuring rich media capture, offline drafts, and automated background reminders. <br>
+✅ **Built-in AI Assistants** (Jarvis & AI Chat) for intelligent visit summaries and actionable insights. <br>
+✅ **Interactive dashboards** powered by Highcharts for real-time performance tracking. <br>
+✅ **Robust offline support** using RealmSwift to securely sync and manage data anywhere. <br>
+✅ **Customer 360** empowers field teams to maximize productivity and drive business growth on the go.
 
 ---
 
-## 4️⃣ Sleep-Glow
+## 4️⃣ Department Head
+
+📌 **Demo:** 
+
+<img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage1.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage4.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage5.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage6.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage7.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage8.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage9.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage2.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage3.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage10.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage11.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage12.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage13.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage14.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage15.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage16.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage17.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage18.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage19.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage20.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage21.png" width="270" height="auto"> <br>
+
+📌 **Tech:** Swift, SwiftUI, SQLite DB (custom SDK), SOAP Web Services, StoreKit, PDFKit.  
+
+📌 **Description:** Department Head 
+
+Department Head is a powerful SwiftUI-based enterprise iOS application designed to help film and television crew heads streamline script analysis, continuity tracking, and daily production scheduling. It offers a smooth, intuitive interface with powerful features like:
+
+✅ **Tailored department modules** featuring custom layouts, color themes, and workflows for Costume, Hair & Makeup, Props, and general crew leads.  <br>
+✅ **Seamless screenplay ingestion** via built-in Final Draft (.fdx) and Movie Magic parser engines that auto-extract scenes, characters, and action/dialogue blocks.  <br>
+✅ **Deep continuity tracking** mapping characters, look/change logs, actor sizing details, and continuity photos directly to specific scenes.  <br>
+✅ **Interactive shooting schedule planner** to organize shoot days, shooting order sequences, and daily lineups on set.  <br>
+✅ **Dedicated PDF reporting engine** to generate and export industry-standard Daily Lineups, Shoot Day Changes, and Long-form Script Breakdowns. <br>
+✅ **High-performance offline database** utilizing custom SQLite wrapping layers to securely store and search complex production metadata anywhere on set.  <br>
+✅ **StoreKit-powered subscription tier** providing flexible access to premium multi-department continuity tools.  <br>
+✅ Department Head empowers production crews to eliminate continuity errors and maximize coordination on the go.  
+
+---
+
+## 5️⃣ Sleep-Glow
 
 📌 **Demo:** 
 
@@ -106,28 +130,27 @@ Sleep Glow is a modern SwiftUI-based wellness and spiritual routine app designed
 
 ---
 
-## 5️⃣ Customer 360
+## 6️⃣ Music Lab
 
 📌 **Demo:** 
 
-<img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image1.png" width="320" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image2.png" width="130" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image3.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image4.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image5.png" width="500" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image6.png" width="350" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image7.png" width="350" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image8.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image9.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image10.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image11.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image12.png" width="150" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/C360Image13.png" width="150" height="auto"> <br>
+<img src="https://github.com/user-attachments/assets/3b744dc1-d485-45b7-82c7-7eb93f39801c" width="200" height="auto"> <img src="https://github.com/user-attachments/assets/a36543db-3ea3-4227-88dd-295704ec0702" width="200" height="auto"> <br>
 
-📌 **Tech:** Swift, SwiftUI, RealmSwift DB, custom backend, api services.  
+📌 **Tech:** Swift, SwiftUI, Core Data.  
 
-📌 **Description:** Customer 360 
+📌 **Description:** 🎵 Music Player
 
-Customer 360 is a powerful SwiftUI-based enterprise app designed to help field reps and managers streamline store visits, client interactions, and sales. It offers a smooth, intuitive interface with powerful features like:
+A sleek and modern Music Player app built with SwiftUI. Enjoy seamless audio playback with a clean UI, smooth animations, and intuitive controls. Features include:
 
-✅ **Interactive store discovery** via an integrated map and store locator. <br>
-✅ **Seamless check-ins** featuring rich media capture, offline drafts, and automated background reminders. <br>
-✅ **Built-in AI Assistants** (Jarvis & AI Chat) for intelligent visit summaries and actionable insights. <br>
-✅ **Interactive dashboards** powered by Highcharts for real-time performance tracking. <br>
-✅ **Robust offline support** using RealmSwift to securely sync and manage data anywhere. <br>
-✅ **Customer 360** empowers field teams to maximize productivity and drive business growth on the go.
+✅ **Seamless Playback** – Play, pause, and skip tracks effortlessly. <br>
+✅ **Favorites & Playlists** – Save and organize your favorite songs. <br>
+✅ **Background Playback** – Enjoy music even when the app is minimized. <br>
+✅ **Dynamic Album Art** – Display song metadata with stunning visuals. <br>
+✅ **Adaptive UI** – Optimized for both light and dark modes.
 
 ---
 
-## 6️⃣ BioSync AI
+## 7️⃣ BioSync AI
 
 📌 **Demo:** 
 
@@ -147,25 +170,3 @@ BioSync AI is an innovative iOS app that seamlessly bridges everyday health trac
 
 ---
 
-## 7️⃣ Department Head
-
-📌 **Demo:** 
-
-<img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage1.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage4.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage5.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage6.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage7.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage8.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage9.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage2.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage3.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage10.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage11.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage12.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage13.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage14.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage15.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage16.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage17.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage18.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage19.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage20.png" width="270" height="auto"> <img src="https://github.com/M-Ibrahim-Asim/IOS-Developer-Portfolio-/blob/main/Portfolio%20Images/DepartmentHeadImage21.png" width="270" height="auto"> <br>
-
-📌 **Tech:** Swift, SwiftUI, SQLite DB (custom SDK), SOAP Web Services, StoreKit, PDFKit.  
-
-📌 **Description:** Department Head 
-
-Department Head is a powerful SwiftUI-based enterprise iOS application designed to help film and television crew heads streamline script analysis, continuity tracking, and daily production scheduling. It offers a smooth, intuitive interface with powerful features like:
-
-✅ **Tailored department modules** featuring custom layouts, color themes, and workflows for Costume, Hair & Makeup, Props, and general crew leads.  <br>
-✅ **Seamless screenplay ingestion** via built-in Final Draft (.fdx) and Movie Magic parser engines that auto-extract scenes, characters, and action/dialogue blocks.  <br>
-✅ **Deep continuity tracking** mapping characters, look/change logs, actor sizing details, and continuity photos directly to specific scenes.  <br>
-✅ **Interactive shooting schedule planner** to organize shoot days, shooting order sequences, and daily lineups on set.  <br>
-✅ **Dedicated PDF reporting engine** to generate and export industry-standard Daily Lineups, Shoot Day Changes, and Long-form Script Breakdowns. <br>
-✅ **High-performance offline database** utilizing custom SQLite wrapping layers to securely store and search complex production metadata anywhere on set.  <br>
-✅ **StoreKit-powered subscription tier** providing flexible access to premium multi-department continuity tools.  <br>
-✅ Department Head empowers production crews to eliminate continuity errors and maximize coordination on the go.  
-
----
