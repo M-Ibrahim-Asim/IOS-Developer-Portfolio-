@@ -1,8 +1,10 @@
-# 🚀 Hi, I'm M.Ibrahim ! 👋 
+# 👋 Hi, I'm Muhammad Ibrahim
 
-### iOS Developer | Swift | SwiftUI | Combine
+### 📱 iOS Developer | SwiftUI Specialist | Swift Engineer
 
-I’m an iOS developer passionate about building beautiful and functional applications. I specialize in Swift, SwiftUI, and integrating APIs to create seamless user experiences. 🚀 
+I develop modern, production-ready iOS applications using SwiftUI, Swift, UIkit, and Apple's latest frameworks. From AI-powered experiences and API integrations to Firebase backends and location-based services, I enjoy building applications that are both visually appealing and technically robust.
+
+My goal is to create clean, scalable, and user-centric solutions that transform complex requirements into intuitive mobile experiences.
 
 ---
 
